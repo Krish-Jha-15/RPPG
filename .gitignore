@@ -1,0 +1,17 @@
+
+video/
+data_set/
+
+results/
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+.vscode/
+
+*.log
+
+frames/
